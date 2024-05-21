@@ -1,7 +1,8 @@
 // ==UserScript==
-// @name        复制粘贴填写成绩 - zknu.edu.cn
+// @name        复制粘贴填写成绩 - jwgl.zknu.edu.cn
 // @namespace   Violentmonkey Scripts
-// @match       *://*.zknu.edu.cn/*
+// @match       *://jwgl.zknu.edu.cn/*
+// @match       *://vpn.zknu.edu.cn/*
 // @grant       none
 // @version     2024.1.13.03
 // @run-at      document-idle
